@@ -1,0 +1,142 @@
+{
+	"frames": {
+		"76": {
+			"frame": { "x": 0, "y": 0, "w": 382, "h": 638 },
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 382, "h": 638 },
+			"sourceSize": { "w": 382, "h": 638 },
+			"anchor": { "x": 0.5, "y": 1 }
+		},
+		"77": {
+			"frame": { "x": 382, "y": 0, "w": 382, "h": 638 },
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 382, "h": 638 },
+			"sourceSize": { "w": 382, "h": 638 },
+			"anchor": { "x": 0.5, "y": 1 }
+		},
+		"78": {
+			"frame": { "x": 764, "y": 0, "w": 382, "h": 638 },
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 382, "h": 638 },
+			"sourceSize": { "w": 382, "h": 638 },
+			"anchor": { "x": 0.5, "y": 1 }
+		},
+		"79": {
+			"frame": { "x": 1146, "y": 0, "w": 382, "h": 638 },
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 382, "h": 638 },
+			"sourceSize": { "w": 382, "h": 638 },
+			"anchor": { "x": 0.5, "y": 1 }
+		},
+		"80": {
+			"frame": { "x": 1528, "y": 0, "w": 382, "h": 638 },
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 382, "h": 638 },
+			"sourceSize": { "w": 382, "h": 638 },
+			"anchor": { "x": 0.5, "y": 1 }
+		},
+		"81": {
+			"frame": { "x": 0, "y": 638, "w": 382, "h": 638 },
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 382, "h": 638 },
+			"sourceSize": { "w": 382, "h": 638 },
+			"anchor": { "x": 0.5, "y": 1 }
+		},
+		"82": {
+			"frame": { "x": 382, "y": 638, "w": 382, "h": 638 },
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 382, "h": 638 },
+			"sourceSize": { "w": 382, "h": 638 },
+			"anchor": { "x": 0.5, "y": 1 }
+		},
+		"83": {
+			"frame": { "x": 764, "y": 638, "w": 382, "h": 638 },
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 382, "h": 638 },
+			"sourceSize": { "w": 382, "h": 638 },
+			"anchor": { "x": 0.5, "y": 1 }
+		},
+		"84": {
+			"frame": { "x": 1146, "y": 638, "w": 382, "h": 638 },
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 382, "h": 638 },
+			"sourceSize": { "w": 382, "h": 638 },
+			"anchor": { "x": 0.5, "y": 1 }
+		},
+		"85": {
+			"frame": { "x": 1528, "y": 638, "w": 382, "h": 638 },
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 382, "h": 638 },
+			"sourceSize": { "w": 382, "h": 638 },
+			"anchor": { "x": 0.5, "y": 1 }
+		},
+		"86": {
+			"frame": { "x": 0, "y": 1276, "w": 382, "h": 638 },
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 382, "h": 638 },
+			"sourceSize": { "w": 382, "h": 638 },
+			"anchor": { "x": 0.5, "y": 1 }
+		},
+		"87": {
+			"frame": { "x": 382, "y": 1276, "w": 382, "h": 638 },
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 382, "h": 638 },
+			"sourceSize": { "w": 382, "h": 638 },
+            "anchor": { "x": 0.5, "y": 1 }
+		},
+		"88": {
+			"frame": { "x": 764, "y": 1276, "w": 382, "h": 638 },
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 382, "h": 638 },
+			"sourceSize": { "w": 382, "h": 638 },
+			"anchor": { "x": 0.5, "y": 1 }
+		},
+		"89": {
+			"frame": { "x": 1146, "y": 1276, "w": 382, "h": 638 },
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 382, "h": 638 },
+			"sourceSize": { "w": 382, "h": 638 },
+			"anchor": { "x": 0.5, "y": 1 }
+		},
+		"90": {
+			"frame": { "x": 1528, "y": 1276, "w": 382, "h": 638 },
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 382, "h": 638 },
+			"sourceSize": { "w": 382, "h": 638 },
+			"anchor": { "x": 0.5, "y": 1 }
+		}
+	},
+	"meta": {
+		"image": "z1_382x638px_5x3_15frames-5.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1910,
+			"h": 1914
+		},
+		"scale": "1",
+        "related_multi_packs": [
+            "z1_382x638px_5x3_15frames-0.json",
+            "z1_382x638px_5x3_15frames-1.json",
+            "z1_382x638px_5x3_15frames-2.json",
+            "z1_382x638px_5x3_15frames-3.json",
+            "z1_382x638px_5x3_15frames-4.json",
+            "z1_382x638px_5x3_15frames-6.json",
+            "z1_382x638px_5x3_15frames-7.json"
+        ]
+	}
+}
